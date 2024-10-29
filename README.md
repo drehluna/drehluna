@@ -18,9 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-🔭 I’m currently working at Nubank.
-
-🌱 I’m currently learning Algorithms and Distributed Systems!
+<div align="left">
+  🔭 I’m currently working at Pravaler.
 
 👯 I’m looking to collaborate on ideas that can make people's life easier!
 
@@ -29,6 +28,7 @@
 ⚡ Fun fact: I'm always learning something, ask anytime, and I'll give you a response!
 
 🎯 My goal is to transform knowledge into ease.
+</div>
 
 ###
 
