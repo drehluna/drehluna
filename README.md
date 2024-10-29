@@ -35,4 +35,18 @@
   </a>
 </div>
 
+
+###
+
+<table>
+    <tr>
+        <td>
+            <img width="430px" src="https://github-readme-stats.vercel.app/api?username=drehluna&count_private=true" alt="status">
+        </td>
+        <td>
+            <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drehluna&count_private=true&layout=compact" alt="languages">
+        </td>
+    </tr>
+</table>
+
 ###
